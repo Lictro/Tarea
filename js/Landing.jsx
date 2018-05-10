@@ -2,7 +2,7 @@ import React from "react";
 
 const Landing = () => (
   <div className="landing">
-    <h1>svideo</h1>
+    <h1>Conoce a Honduras</h1>
     <input type="text" placeholder="Search" />
     <a href="/">or Browse All</a>
   </div>
