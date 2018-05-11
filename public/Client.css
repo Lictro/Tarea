@@ -1,11 +1,13 @@
 body{
     margin: 0;
+    background-color:rgb(204, 255, 255);
 }
 
-.container{
-    text-align: left;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    padding-right: 30px;
-    padding-left: 30px;
-  }
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p{
+    text-align: justify;
+}

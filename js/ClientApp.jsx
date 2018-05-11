@@ -8,8 +8,9 @@ import CardGen from './CardGen';
 const App = () => (
   <div>
     <MuiThemeProvider>
-      <AppBar title="Conozca a Honduras" iconClassNameRight="muidocs-icon-navigation-expand-more" />
+      <AppBar title="Conozca a Honduras" iconClassNameRight="muidocs-icon-navigation-expand-more" style={{ backgroundColor: '#3EAEB1' }} />
     </MuiThemeProvider>
+    <br />
     <MuiThemeProvider>
       <CardGen deptos={Honduras.deptos} />
     </MuiThemeProvider>
