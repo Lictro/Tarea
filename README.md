@@ -1,6 +1,6 @@
 # Conozca a Honduras
 
-Pequena Aplicacion de ReactJS
+Pequeña Aplicacion de ReactJS
 
 Tarea 1
 
