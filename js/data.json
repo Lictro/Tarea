@@ -1,0 +1,40 @@
+{
+    "deptos": [
+        {
+            "name": "Atlantida",
+            "info": "Atlántida presenta dos regiones fisiográficas diferenciadas, una llana y otra montañosa. La primera se extiende a lo largo de la costa caribeña, formando amplias y atractivas playas, y tiene como accidente costero más notable la Bahía de Tela, cuyos extremos son las puntas Sal al oeste, e Izopo al este. La región montañosa la comprende la Sierra Nombre de Dios, en esta se alza el Pico Bonito, el punto más alto del departamento.",
+            "capital": "La Ceiba",
+            "link": "https://upload.wikimedia.org/wikipedia/commons/c/c7/San_Juan_River_Honduras.jpg"
+        },
+        {
+            "name": "Choluteca",
+            "info": "Choluteca está ubicada en el sur de Honduras, tiene una superficie total de 4360 km..ç2, su población es de aproximadamente de 395.000 habitantes, cuenta con muchos terrenos que son utilizados para la agricultura, la pesca, azucareras, camaroneras, etc. La cabecera del departamento es la ciudad de Choluteca, que es cruzada por el río Choluteca que atraviesa el departamento, para llegar a la ciudad se pasa por el Puente de Choluteca.",
+            "capital": "Choluteca",
+            "link": "https://upload.wikimedia.org/wikipedia/commons/9/94/Centre-ville_de_San_Marcos_de_Col%C3%B3n.jpg"
+        },
+        {
+            "name": "Colon",
+            "info": "Fundado como Departamento el 19 de diciembre de 1891 por la administración del Presidente Ponciano Leiva, tiene como cabecera departamental a La ciudad de Trujillo. Se encuentra situado en el sector septentrional del país y presenta al Norte un extenso litoral abierto al mar Caribe. Su territorio está cruzado por varios ríos, entre ellos el Seco y El Paulaya.",
+            "capital": "Trujillo",
+            "link": "http://www.laprensa.hn/csp/mediapool/sites/dt.common.streams.StreamServer.cls?STREAMOID=zpCMFIJwXkEWNKRHibxoS8$daE2N3K4ZzOUsqbU5sYsBTN_GjKNqgSbWv6tgB9bbWCsjLu883Ygn4B49Lvm9bPe2QeMKQdVeZmXF$9l$4uCZ8QDXhaHEp3rvzXRJFdy0KqPHLoMevcTLo3h8xh70Y6N_U_CryOsw6FTOdKL_jpQ-&CONTENTTYPE=image/jpeg"
+        },
+        {
+            "name": "Comayagua",
+            "info": "La ciudad de Comayagua cuenta con una extensión territorial de 831.9 km². Esta ciudad, se encuentra emplazada en el valle de su mismo nombre, situado en la región central de Honduras, entre 87°22' y 87°55' de longitud Occidental y 14°22' y 14°38' de Latitud Norte en el centro del país, entre los ríos Humuya y Chiquito. Comayagua, limita al norte con los municipios de El Rosario, San Jeronimo, Esquias y Siguatepeque. Al sur con la Villa de San Antonio; al este: Departamento Francisco Morazán. Al oeste Comayagua limita con los municipios de Ajuterique, Lejamaní y el departamento de La Paz.",
+            "capital": "Comayagua",
+            "link": "https://upload.wikimedia.org/wikipedia/commons/2/2b/CatedraldeComayagua.jpg"
+        },
+        {
+            "name": "Copan",
+            "info": "El departamento de Copán, se encuentra fronterizo con la república de Guatemala. Su cabecera departamental es la ciudad de Santa Rosa de Copán y en la cual se encuentran las sedes de oficinas gubernamentales departamentales; la superficie territorial es de 3,242 km² y de acuerdo al censo de 1991 la población asciende a los 226 000 habitantes. Por muchos años, Copán ha tenido fama por sus magníficas ruinas mayas, debido a ello en 1980 la UNESCO agregó a su lista de Patrimonio de la Humanidad.",
+            "capital": "Santa Rosa de Copan",
+            "link": "https://upload.wikimedia.org/wikipedia/commons/0/07/CPN_GREAT_PLAZA_03.jpg"
+        },
+        {
+            "name": "Cortes",
+            "info": "En el siglo XIX se fundaron los municipios de San Antonio de Cortés (1830), San Manuel (1859), Santa Cruz de Yojoa (1864), Potrerillos (1871), Villanueva (1871), San Francisco de Yojoa (1887). Por 68 años todos estos municipios que hoy pertenecen al departamento de Cortés fueron parte del departamento dependiente del Santa Bárbara, cuando el primer Jefe de Estado, Don Dionisio de Herrera, dividió al territorio hondureño en siete departamentos. Eso fue hasta que el entonces presidente de la república, General Domingo Vásquez decretara la creación del departamento de Cortés el 4 de julio de 1893.\nLa administración de Domingo Vásquez creó este departamento basado en el auge que el comercio y la agricultura habían tomado en esa época, especialmente el distrito de San Pedro Sula. Asimismo se tomó bajo consideración la riqueza natural del territorio y el número de sus habitantes. Según lo indica el decreto, este territorio, tenía elementos de vida propia, aún superiores a los de otros departamentos de la república.",
+            "capital": "San Pedro Sula",
+            "link": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Panoramica_general_sps_05.jpg"
+        }
+    ]
+}

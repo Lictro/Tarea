@@ -2,10 +2,8 @@ import React from "react";
 import { render } from "react-dom";
 import AppBar from "material-ui/AppBar";
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-
-function handleClick() {
-  alert('onClick triggered on the title component');
-}
+import Honduras from "./data.json"
+import CardGen from "./CardGen"
 
 const App = () => (
   <div>
@@ -13,8 +11,10 @@ const App = () => (
       <AppBar
         title="Conozca a Honduras"
         iconClassNameRight="muidocs-icon-navigation-expand-more"
-        onLeftIconButtonClick={handleClick}
       />
+    </MuiThemeProvider>
+    <MuiThemeProvider>
+      <CardGen deptos={Honduras.deptos} />
     </MuiThemeProvider>
   </div>
 );
