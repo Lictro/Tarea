@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const Search = () => <h1>Hola desde Search</h1>;
 

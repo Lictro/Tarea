@@ -1,9 +1,9 @@
-import React from "react";
-import SimpleCard from "./Card";
+import React from 'react';
+import SimpleCard from './Card';
 
-const CardGen = (props) => (
+const CardGen = props => (
   <div>
-    {props.deptos.map((text) => <SimpleCard titulo={text.name} cuerpo={text.info} link={text.link} cap={text.capital} />)}
+    {props.deptos.map(text => <SimpleCard titulo={text.name} cuerpo={text.info} link={text.link} cap={text.capital} />)}
   </div>
 );
 

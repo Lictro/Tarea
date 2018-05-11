@@ -1,7 +1,5 @@
-import React from "react";
+import React from 'react';
 
-const Titulo = (props) => (
-  <h1>{props.name}</h1>
-);
+const Titulo = props => <h1>{props.name}</h1>;
 
 export default Titulo;
